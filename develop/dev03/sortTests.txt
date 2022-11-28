@@ -1,0 +1,8 @@
+12 123 1 golang strijyury
+51 323 4 google strijyury
+73 231 7 python strijyury
+18 222 8 csharp strijyury
+21 543 6 fortran strijyury
+10 999 9 delphi strijyury
+73 231 7 python strijyury
+11 800 2 kotlin strijyury
